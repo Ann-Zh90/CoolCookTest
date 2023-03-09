@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div>First commit in main</div>
+        <div>Second commit in main</div>
       </header>
     </div>
   );
